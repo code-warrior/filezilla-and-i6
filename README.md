@@ -1,5 +1,5 @@
 # Using Filezilla with NYU’s i6 Server
-FileZilla is an open-source FTP client for Mac, Windows, and Linux. Use the following settings to connect to your i6 account on CIMS.
+[FileZilla](https://filezilla-project.org/download.php?type=client) is an open-source FTP client for Mac, Windows, and Linux. Use the following settings to connect to your i6 account on CIMS.
 
 | Item           | Points                   |
 |---------------:|:-------------------------|
