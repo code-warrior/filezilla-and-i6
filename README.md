@@ -25,7 +25,7 @@ You can copy files and folders between your computer and your i6 account by drag
 ---
 
 ## Saving Settings in Site Manager
-You can save all your settings in FileZilla’s Site Manager in order to easily connect to your i6 account. Type `⌘ + S` on a Mac, `cntrl + S` in Windows to launch Site Manager, and use the following screenshot as a guide for your own settings. Refer to the steps at the bottom of this page for more details.
+You can save all your settings in FileZilla’s Site Manager in order to easily connect to your i6 account. Type `⌘ + S` on a Mac, `cntrl + S` in Windows to launch Site Manager. Use the following screenshot as a guide for your own settings. Refer to the steps at the bottom of the screenshot for more details.
 
 ![](images/site-manager-settings.jpg)
 
