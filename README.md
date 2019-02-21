@@ -11,9 +11,16 @@
 ---
 
 ## Quickconnect
-In the initial page, use the credentials from the table above to connect. The left pane represents your computer’s file system. The pane on the right represents your i6 account’s file system. You may drag-and-drop between the left and right panes to copy files between your computer and your i6 account.
+In the initial page, use the credentials from the table above to connect using the row of text boxes along the top of FileZilla’s Quickconnect page.
+![](images/quickconnect.png)
 
-![](images/quickconnect.jpg)
+Once you’re connected, the lower left pane represents your computer’s file system.
+![](images/left-pane--local-file-system.png)
+
+The lower right pane represents your i6 account’s file system.
+![](images/right-pane--remote-file-system.png)
+
+You can copy files and folders between your computer and your i6 account by dragging and dropping them between the left and right panes.
 
 ---
 
